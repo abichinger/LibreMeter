@@ -1,0 +1,5 @@
+packages
+build
+**/obj
+.vs
+node_modules
