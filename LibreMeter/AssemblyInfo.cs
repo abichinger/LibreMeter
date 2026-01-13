@@ -2,7 +2,7 @@ using System.Reflection;
 using System.Runtime.CompilerServices;
 
 [assembly: AssemblyCopyright("© 2021 - abichinger")]
-[assembly: AssemblyVersion("2.2.0")]
+[assembly: AssemblyVersion("1.0.0")]
 
 // Do not change the entries below!
 #if X64
